@@ -1,0 +1,11 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": ".copilot-codeGeneration-instructions.md"
+    },
+    {
+      "test": "Use underscore for field names."
+    }
+  ],
+  "github.copilot.chat.codeGeneration.language": "en"
+}
